@@ -14,7 +14,7 @@ Learner • C Programming • Bangladesh
 
 <!-- Typing animation -->
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&multiline=true&repeat=true&width=500&height=80&lines=Hello%2C+World!;Welcome+to+my+GitHub;I+am+Mahidul+Imam+Saurov" alt="Hello World typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&multiline=true&repeat=true&width=500&height=80&lines=Hello%2C+World!;Welcome+to+my+GitHub;I+am+Nafisa+Hossain+Esha" alt="Hello World typing" />
 </p>
 
 
